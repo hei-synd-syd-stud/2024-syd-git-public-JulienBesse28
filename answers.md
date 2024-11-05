@@ -24,6 +24,8 @@ La chaine de caractère est l'identifiant du commit. Le head est un pointeur qui
 
 ### Task 6
 
+Les fichiers ont été suprimé et les version initiales ont été écrite à la place. La même chose pour la deuxième action sauf que se sont les dérnière version qui ont été écrite dans le dossier projet.
+
 ## Gitgraph
 
 ### Task 7
